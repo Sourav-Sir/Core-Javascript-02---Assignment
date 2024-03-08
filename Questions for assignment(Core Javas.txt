@@ -1,0 +1,36 @@
+Questions for assignment(Core Javascript-2):
+
+1. Create an arrow function called a square that takes a number as an argument and returns its square. Use the arrow function to calculate the square of a given number and display the result.
+
+
+2. The following is an array of 10 students ages:
+=> const ages = [19,22,19,24,20,25,26,24,25,24]
+• Sort the array and find the min and max age.
+• Find the median age(one middle item or two middle items divided by two)
+• Find the average age(all items divided by numbe of items)
+• Find the range of the ages(max minus min)
+• Compae t:e value of (min - average) and (max - average), use abs() method
+
+3. Create a map to store contact information (name, age, email, location) and implement a function to retrieve contact detail by name.
+
+4. Create two objects person= and person with: properties name and age. Ceate a function “introduce” that pints "Hello, I'm[name], and I'm[age] yeas old." Use the call method to make person introduce itself
+using the introduce function.
+
+5. You are developing a program to manage a list of unique items. Wite a JavaScipt program that uses a Set to store a collection of unique numbres. Use the Map object to associate each number with its square.
+Finally, print both the unique numbers and their corresponding squares.
+
+6. • Create a simple JavaScript function named displayInfo that takes two parameters (name and role) and logs a message.
+• Use call to invoke the displayInfo function with specific arguments.
+• Use apply to invoke the displayInfo function with arguments passed as an array.
+• Create another function named greet that logs a greeting with this context.
+• Use bind to create a new function named boundGreet with a specific context and log the greeting.
+
+7. Task
+• Create an object named calculator with methods add, subtract, and multiply.
+• Implement the calculate method in the calculator object, which takes an operation ('add', 'subtract', or 'multiply') and two numbers.
+• Use call to perform an addition operation using the calculate method.
+• Use apply to perform a multiplication operation using the calculate method with arguments as an array.
+• Create another object named discountCalculator with a discount percentage property and a method applyDiscount.
+• Use bind to create a new function calculateDiscount that is bound to the discountCalculator object and can be reused.
+
+
